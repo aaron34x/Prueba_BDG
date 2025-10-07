@@ -1,0 +1,1001 @@
+id_cliente,edad,segmento,ingresos,canal_preferido
+CLI_000001,58,Classic,4456,Digital
+CLI_000002,65,Basic,2126,Sucursal
+CLI_000003,32,Basic,1571,Digital
+CLI_000004,61,Classic,7033,Digital
+CLI_000005,55,Premium,14912,Digital
+CLI_000006,19,Premium,9535,Sucursal
+CLI_000007,32,Premium,16279,Digital
+CLI_000008,53,Basic,1814,App Móvil
+CLI_000009,32,Classic,5839,Call Center
+CLI_000010,69,Basic,1026,Sucursal
+CLI_000011,62,Premium,14924,Call Center
+CLI_000012,35,Basic,1636,Sucursal
+CLI_000013,79,Basic,2378,Digital
+CLI_000014,23,Classic,5556,Digital
+CLI_000015,40,Premium,13635,Call Center
+CLI_000016,69,Premium,8711,App Móvil
+CLI_000017,52,Classic,4511,App Móvil
+CLI_000018,23,Classic,6261,Call Center
+CLI_000019,71,Classic,6574,Call Center
+CLI_000020,54,Classic,4787,Digital
+CLI_000021,20,Classic,6708,Sucursal
+CLI_000022,67,Premium,12741,Digital
+CLI_000023,72,Classic,4953,Digital
+CLI_000024,42,Classic,5138,App Móvil
+CLI_000025,58,Classic,7416,Call Center
+CLI_000026,28,Basic,2516,Call Center
+CLI_000027,31,Premium,18980,Call Center
+CLI_000028,62,Classic,7836,Digital
+CLI_000029,56,Classic,6600,Sucursal
+CLI_000030,52,Premium,19946,Sucursal
+CLI_000031,28,Classic,5893,App Móvil
+CLI_000032,35,Premium,18485,Sucursal
+CLI_000033,61,Premium,13313,Digital
+CLI_000034,32,Basic,1131,Call Center
+CLI_000035,43,Basic,2096,Digital
+CLI_000036,31,Basic,3323,Call Center
+CLI_000037,31,Classic,6684,App Móvil
+CLI_000038,43,Premium,18532,App Móvil
+CLI_000039,27,Classic,5084,Sucursal
+CLI_000040,33,Classic,7051,Call Center
+CLI_000041,65,Premium,17577,App Móvil
+CLI_000042,75,Classic,6390,App Móvil
+CLI_000043,41,Premium,11593,Sucursal
+CLI_000044,50,Basic,3021,Digital
+CLI_000045,66,Classic,4192,Digital
+CLI_000046,27,Classic,6570,Sucursal
+CLI_000047,68,Classic,6787,App Móvil
+CLI_000048,56,Classic,4260,App Móvil
+CLI_000049,42,Classic,6440,App Móvil
+CLI_000050,51,Premium,12119,Digital
+CLI_000051,61,Basic,3952,Digital
+CLI_000052,61,Basic,3199,Call Center
+CLI_000053,67,Basic,3625,Call Center
+CLI_000054,25,Basic,2202,App Móvil
+CLI_000055,28,Classic,5858,Digital
+CLI_000056,79,Basic,3957,Call Center
+CLI_000057,80,Premium,16201,Sucursal
+CLI_000058,50,Premium,9743,Call Center
+CLI_000059,71,Premium,18468,Sucursal
+CLI_000060,27,Classic,5531,Sucursal
+CLI_000061,52,Classic,7905,Digital
+CLI_000062,56,Classic,5327,App Móvil
+CLI_000063,19,Basic,1458,Call Center
+CLI_000064,74,Classic,7406,Call Center
+CLI_000065,33,Classic,4237,Sucursal
+CLI_000066,74,Classic,6323,Digital
+CLI_000067,23,Premium,19991,App Móvil
+CLI_000068,70,Basic,1283,Sucursal
+CLI_000069,26,Premium,18809,App Móvil
+CLI_000070,78,Basic,3251,Sucursal
+CLI_000071,34,Basic,3161,App Móvil
+CLI_000072,79,Premium,11470,Sucursal
+CLI_000073,63,Premium,13107,App Móvil
+CLI_000074,60,Basic,3661,Call Center
+CLI_000075,46,Basic,3119,App Móvil
+CLI_000076,25,Basic,2015,Sucursal
+CLI_000077,22,Basic,2384,Digital
+CLI_000078,55,Premium,17075,Sucursal
+CLI_000079,55,Classic,4902,Digital
+CLI_000080,22,Premium,19597,Digital
+CLI_000081,32,Basic,1276,Digital
+CLI_000082,73,Classic,5353,Digital
+CLI_000083,50,Classic,4974,Call Center
+CLI_000084,60,Premium,15953,Sucursal
+CLI_000085,52,Classic,4541,App Móvil
+CLI_000086,33,Classic,7213,App Móvil
+CLI_000087,69,Basic,2667,Sucursal
+CLI_000088,24,Classic,4397,App Móvil
+CLI_000089,40,Basic,2734,App Móvil
+CLI_000090,47,Classic,7538,Digital
+CLI_000091,61,Premium,18706,Digital
+CLI_000092,21,Basic,2649,Call Center
+CLI_000093,69,Basic,1447,Sucursal
+CLI_000094,30,Classic,4779,App Móvil
+CLI_000095,26,Basic,2728,Sucursal
+CLI_000096,35,Classic,5894,Sucursal
+CLI_000097,73,Classic,7781,Digital
+CLI_000098,46,Classic,7309,Digital
+CLI_000099,21,Premium,18684,Digital
+CLI_000100,80,Premium,9528,Sucursal
+CLI_000101,28,Premium,14658,App Móvil
+CLI_000102,48,Classic,4875,App Móvil
+CLI_000103,75,Classic,4240,Sucursal
+CLI_000104,42,Classic,4008,App Móvil
+CLI_000105,34,Basic,2863,Call Center
+CLI_000106,45,Classic,6853,App Móvil
+CLI_000107,27,Classic,4777,Call Center
+CLI_000108,31,Basic,1239,Digital
+CLI_000109,65,Classic,5284,Digital
+CLI_000110,21,Premium,17571,App Móvil
+CLI_000111,50,Classic,7765,Sucursal
+CLI_000112,21,Premium,16320,Digital
+CLI_000113,72,Basic,1761,Digital
+CLI_000114,56,Basic,1278,Sucursal
+CLI_000115,43,Classic,4491,Sucursal
+CLI_000116,55,Basic,3435,Digital
+CLI_000117,57,Basic,1335,App Móvil
+CLI_000118,60,Premium,17562,Call Center
+CLI_000119,77,Basic,2068,Sucursal
+CLI_000120,60,Classic,6933,Call Center
+CLI_000121,33,Basic,2087,App Móvil
+CLI_000122,26,Basic,3751,Call Center
+CLI_000123,47,Classic,5295,Digital
+CLI_000124,18,Premium,15508,Digital
+CLI_000125,22,Classic,6202,Sucursal
+CLI_000126,50,Classic,5086,Sucursal
+CLI_000127,77,Basic,2429,Digital
+CLI_000128,74,Basic,2000,Call Center
+CLI_000129,36,Premium,10584,App Móvil
+CLI_000130,71,Classic,6225,Call Center
+CLI_000131,57,Classic,7305,Digital
+CLI_000132,60,Classic,7346,Call Center
+CLI_000133,77,Premium,18868,Digital
+CLI_000134,78,Classic,7596,Sucursal
+CLI_000135,34,Basic,1472,Digital
+CLI_000136,65,Classic,6266,Sucursal
+CLI_000137,35,Classic,5154,Sucursal
+CLI_000138,63,Basic,2404,Sucursal
+CLI_000139,61,Classic,6597,Call Center
+CLI_000140,50,Basic,3001,Call Center
+CLI_000141,75,Basic,1208,Digital
+CLI_000142,58,Classic,5734,Call Center
+CLI_000143,20,Classic,4014,Call Center
+CLI_000144,67,Classic,4535,Call Center
+CLI_000145,28,Classic,7036,App Móvil
+CLI_000146,53,Premium,19561,App Móvil
+CLI_000147,53,Classic,4039,Digital
+CLI_000148,22,Classic,7870,Sucursal
+CLI_000149,52,Premium,8590,Call Center
+CLI_000150,55,Classic,6263,Sucursal
+CLI_000151,45,Basic,1522,Digital
+CLI_000152,37,Classic,5493,Digital
+CLI_000153,75,Premium,13862,Sucursal
+CLI_000154,61,Classic,5022,Digital
+CLI_000155,40,Basic,3293,App Móvil
+CLI_000156,80,Classic,6542,Sucursal
+CLI_000157,77,Classic,7808,Sucursal
+CLI_000158,73,Basic,1665,Sucursal
+CLI_000159,74,Classic,5688,Digital
+CLI_000160,29,Basic,2360,App Móvil
+CLI_000161,69,Classic,6743,Sucursal
+CLI_000162,35,Classic,4652,Digital
+CLI_000163,42,Classic,7572,Digital
+CLI_000164,72,Classic,5927,Sucursal
+CLI_000165,30,Premium,15541,Call Center
+CLI_000166,37,Basic,1932,Sucursal
+CLI_000167,19,Classic,6703,Sucursal
+CLI_000168,43,Premium,13378,Call Center
+CLI_000169,73,Premium,9137,Call Center
+CLI_000170,40,Classic,6627,App Móvil
+CLI_000171,61,Classic,7455,Call Center
+CLI_000172,78,Premium,8452,Digital
+CLI_000173,74,Classic,7974,Call Center
+CLI_000174,29,Classic,6378,Call Center
+CLI_000175,20,Classic,4444,App Móvil
+CLI_000176,40,Premium,19936,Call Center
+CLI_000177,45,Classic,6483,Digital
+CLI_000178,42,Classic,7684,Sucursal
+CLI_000179,34,Basic,1181,App Móvil
+CLI_000180,18,Premium,16518,Sucursal
+CLI_000181,41,Classic,5766,Digital
+CLI_000182,78,Premium,18882,Call Center
+CLI_000183,57,Basic,2285,Digital
+CLI_000184,64,Basic,2230,Call Center
+CLI_000185,60,Classic,5672,Call Center
+CLI_000186,43,Classic,6855,Call Center
+CLI_000187,53,Basic,1521,Sucursal
+CLI_000188,44,Classic,6723,App Móvil
+CLI_000189,61,Classic,7064,Sucursal
+CLI_000190,57,Classic,6331,Call Center
+CLI_000191,43,Premium,16977,Digital
+CLI_000192,37,Basic,2175,Sucursal
+CLI_000193,45,Basic,3375,Call Center
+CLI_000194,47,Classic,5809,App Móvil
+CLI_000195,61,Classic,4875,App Móvil
+CLI_000196,68,Classic,7691,Sucursal
+CLI_000197,60,Basic,1347,Call Center
+CLI_000198,50,Basic,3719,Call Center
+CLI_000199,23,Basic,1962,Call Center
+CLI_000200,32,Basic,1815,Sucursal
+CLI_000201,19,Classic,4189,Sucursal
+CLI_000202,80,Premium,15784,Digital
+CLI_000203,47,Premium,14790,Sucursal
+CLI_000204,63,Basic,3852,App Móvil
+CLI_000205,49,Classic,5636,Sucursal
+CLI_000206,27,Premium,18748,Digital
+CLI_000207,75,Premium,9746,App Móvil
+CLI_000208,32,Classic,4720,App Móvil
+CLI_000209,21,Premium,17132,Sucursal
+CLI_000210,76,Premium,9988,App Móvil
+CLI_000211,26,Classic,7282,App Móvil
+CLI_000212,60,Classic,6175,Call Center
+CLI_000213,78,Classic,7093,App Móvil
+CLI_000214,57,Classic,7338,App Móvil
+CLI_000215,71,Basic,3244,App Móvil
+CLI_000216,75,Classic,4651,App Móvil
+CLI_000217,46,Classic,5061,Sucursal
+CLI_000218,71,Basic,3611,Call Center
+CLI_000219,67,Classic,7185,App Móvil
+CLI_000220,58,Basic,1979,Call Center
+CLI_000221,46,Classic,4317,Call Center
+CLI_000222,33,Classic,5112,Call Center
+CLI_000223,38,Premium,16849,Digital
+CLI_000224,26,Classic,4617,Sucursal
+CLI_000225,42,Classic,6842,Sucursal
+CLI_000226,63,Classic,4876,Digital
+CLI_000227,44,Basic,2669,Call Center
+CLI_000228,52,Classic,5908,App Móvil
+CLI_000229,21,Basic,1847,App Móvil
+CLI_000230,42,Classic,7706,Digital
+CLI_000231,72,Basic,3358,App Móvil
+CLI_000232,48,Classic,4024,Call Center
+CLI_000233,37,Classic,7086,App Móvil
+CLI_000234,72,Classic,7652,App Móvil
+CLI_000235,52,Premium,16947,Sucursal
+CLI_000236,49,Basic,1898,Call Center
+CLI_000237,45,Classic,5989,Digital
+CLI_000238,42,Premium,13507,App Móvil
+CLI_000239,64,Classic,4676,App Móvil
+CLI_000240,76,Premium,10091,Digital
+CLI_000241,76,Basic,2613,Digital
+CLI_000242,23,Basic,3632,App Móvil
+CLI_000243,26,Basic,2891,Sucursal
+CLI_000244,21,Classic,5065,App Móvil
+CLI_000245,38,Premium,11467,App Móvil
+CLI_000246,38,Basic,2382,App Móvil
+CLI_000247,35,Classic,7080,App Móvil
+CLI_000248,34,Basic,1335,App Móvil
+CLI_000249,19,Basic,3209,Digital
+CLI_000250,78,Basic,2433,Sucursal
+CLI_000251,59,Classic,4281,Digital
+CLI_000252,66,Classic,4127,Sucursal
+CLI_000253,30,Basic,1083,Sucursal
+CLI_000254,33,Classic,4517,App Móvil
+CLI_000255,60,Premium,9874,Sucursal
+CLI_000256,47,Classic,6865,Call Center
+CLI_000257,67,Basic,2510,Sucursal
+CLI_000258,56,Classic,6487,Digital
+CLI_000259,67,Classic,7355,Sucursal
+CLI_000260,79,Premium,13096,Digital
+CLI_000261,55,Classic,4105,Call Center
+CLI_000262,54,Basic,3774,App Móvil
+CLI_000263,43,Premium,19714,Sucursal
+CLI_000264,22,Classic,6425,Sucursal
+CLI_000265,24,Basic,3855,Call Center
+CLI_000266,72,Basic,3802,Digital
+CLI_000267,68,Classic,6318,Digital
+CLI_000268,40,Basic,3182,App Móvil
+CLI_000269,60,Classic,5517,Digital
+CLI_000270,50,Classic,6652,Call Center
+CLI_000271,18,Basic,2720,App Móvil
+CLI_000272,24,Basic,2775,Call Center
+CLI_000273,58,Basic,2883,Sucursal
+CLI_000274,45,Basic,1721,Call Center
+CLI_000275,57,Classic,7310,App Móvil
+CLI_000276,47,Classic,5784,Call Center
+CLI_000277,38,Basic,2005,Digital
+CLI_000278,35,Classic,7611,App Móvil
+CLI_000279,33,Basic,2903,App Móvil
+CLI_000280,39,Basic,1117,App Móvil
+CLI_000281,72,Basic,2331,Sucursal
+CLI_000282,49,Classic,4868,Call Center
+CLI_000283,69,Classic,5058,Call Center
+CLI_000284,35,Premium,17767,Call Center
+CLI_000285,53,Classic,4041,Sucursal
+CLI_000286,23,Premium,11954,App Móvil
+CLI_000287,49,Classic,6274,Sucursal
+CLI_000288,62,Classic,5950,App Móvil
+CLI_000289,46,Classic,7247,Digital
+CLI_000290,23,Classic,5205,Sucursal
+CLI_000291,43,Premium,19334,Sucursal
+CLI_000292,37,Premium,18878,Call Center
+CLI_000293,48,Basic,3267,Call Center
+CLI_000294,45,Classic,7055,Call Center
+CLI_000295,40,Premium,19515,App Móvil
+CLI_000296,35,Classic,5255,Call Center
+CLI_000297,32,Basic,1494,Sucursal
+CLI_000298,38,Classic,4489,Sucursal
+CLI_000299,30,Classic,4886,App Móvil
+CLI_000300,35,Premium,19871,Call Center
+CLI_000301,80,Premium,9647,Sucursal
+CLI_000302,36,Classic,4931,Call Center
+CLI_000303,29,Classic,5238,Digital
+CLI_000304,63,Classic,6187,Sucursal
+CLI_000305,35,Basic,1186,Digital
+CLI_000306,53,Basic,2196,Sucursal
+CLI_000307,58,Classic,7557,App Móvil
+CLI_000308,24,Classic,7574,Digital
+CLI_000309,54,Basic,2164,App Móvil
+CLI_000310,48,Classic,5804,Call Center
+CLI_000311,29,Classic,7954,Digital
+CLI_000312,34,Premium,15827,Digital
+CLI_000313,70,Premium,9070,App Móvil
+CLI_000314,49,Basic,1303,Digital
+CLI_000315,27,Basic,1611,Call Center
+CLI_000316,23,Classic,5016,Digital
+CLI_000317,53,Classic,7131,App Móvil
+CLI_000318,56,Premium,17766,Sucursal
+CLI_000319,67,Premium,16561,App Móvil
+CLI_000320,46,Classic,7721,App Móvil
+CLI_000321,37,Classic,7523,App Móvil
+CLI_000322,37,Basic,3329,Digital
+CLI_000323,57,Classic,7932,Digital
+CLI_000324,78,Classic,7124,Sucursal
+CLI_000325,58,Basic,1864,Call Center
+CLI_000326,60,Basic,1332,Sucursal
+CLI_000327,33,Classic,4711,Digital
+CLI_000328,28,Classic,4010,App Móvil
+CLI_000329,46,Classic,6823,App Móvil
+CLI_000330,36,Classic,4133,Sucursal
+CLI_000331,36,Classic,6895,Call Center
+CLI_000332,62,Basic,2859,Digital
+CLI_000333,61,Premium,11824,Call Center
+CLI_000334,68,Premium,18240,Sucursal
+CLI_000335,45,Premium,9880,Sucursal
+CLI_000336,59,Premium,10441,Call Center
+CLI_000337,70,Basic,1582,Digital
+CLI_000338,21,Basic,1679,Call Center
+CLI_000339,56,Classic,7067,Call Center
+CLI_000340,46,Premium,10037,App Móvil
+CLI_000341,62,Classic,5245,App Móvil
+CLI_000342,78,Classic,5115,App Móvil
+CLI_000343,46,Premium,9317,Digital
+CLI_000344,74,Classic,5769,Call Center
+CLI_000345,56,Classic,5025,Digital
+CLI_000346,23,Classic,4937,Digital
+CLI_000347,66,Classic,6753,Call Center
+CLI_000348,54,Premium,8659,Sucursal
+CLI_000349,48,Classic,6125,App Móvil
+CLI_000350,76,Classic,5139,Sucursal
+CLI_000351,55,Classic,5785,App Móvil
+CLI_000352,80,Basic,1373,App Móvil
+CLI_000353,40,Classic,5672,Call Center
+CLI_000354,38,Premium,18979,Digital
+CLI_000355,72,Premium,10634,Call Center
+CLI_000356,44,Classic,6841,App Móvil
+CLI_000357,36,Premium,18855,App Móvil
+CLI_000358,70,Classic,7115,Digital
+CLI_000359,47,Basic,1360,Call Center
+CLI_000360,34,Classic,5324,Digital
+CLI_000361,80,Classic,7164,App Móvil
+CLI_000362,73,Classic,6107,Digital
+CLI_000363,60,Classic,7560,App Móvil
+CLI_000364,44,Classic,4222,Sucursal
+CLI_000365,51,Basic,2481,App Móvil
+CLI_000366,58,Classic,5810,Digital
+CLI_000367,31,Basic,2093,Sucursal
+CLI_000368,77,Basic,2179,App Móvil
+CLI_000369,74,Premium,19440,App Móvil
+CLI_000370,25,Premium,8472,Sucursal
+CLI_000371,63,Premium,10594,Call Center
+CLI_000372,53,Premium,8224,App Móvil
+CLI_000373,23,Premium,11681,Digital
+CLI_000374,47,Classic,7879,Digital
+CLI_000375,59,Premium,10522,App Móvil
+CLI_000376,77,Classic,6935,Call Center
+CLI_000377,50,Basic,3889,Call Center
+CLI_000378,44,Premium,15905,App Móvil
+CLI_000379,33,Basic,2870,Sucursal
+CLI_000380,42,Classic,4780,Sucursal
+CLI_000381,73,Premium,9143,Call Center
+CLI_000382,67,Classic,7235,App Móvil
+CLI_000383,39,Classic,7826,Call Center
+CLI_000384,70,Basic,1010,Call Center
+CLI_000385,64,Basic,2222,App Móvil
+CLI_000386,73,Basic,1608,App Móvil
+CLI_000387,52,Classic,5983,Call Center
+CLI_000388,39,Premium,17042,App Móvil
+CLI_000389,47,Basic,2318,Sucursal
+CLI_000390,80,Basic,3856,Sucursal
+CLI_000391,54,Basic,2568,Sucursal
+CLI_000392,72,Classic,7176,App Móvil
+CLI_000393,20,Classic,5303,App Móvil
+CLI_000394,63,Basic,2561,App Móvil
+CLI_000395,60,Classic,7245,Sucursal
+CLI_000396,49,Basic,1151,Sucursal
+CLI_000397,50,Basic,3417,Call Center
+CLI_000398,73,Classic,4411,App Móvil
+CLI_000399,24,Basic,3154,App Móvil
+CLI_000400,18,Basic,3959,Sucursal
+CLI_000401,44,Premium,18727,Sucursal
+CLI_000402,22,Basic,2923,Call Center
+CLI_000403,39,Classic,6552,App Móvil
+CLI_000404,59,Basic,1328,Call Center
+CLI_000405,72,Classic,6762,App Móvil
+CLI_000406,79,Basic,2297,App Móvil
+CLI_000407,73,Classic,6216,Digital
+CLI_000408,57,Premium,9121,Sucursal
+CLI_000409,58,Basic,3803,Call Center
+CLI_000410,32,Premium,9480,App Móvil
+CLI_000411,80,Classic,4403,Digital
+CLI_000412,46,Basic,1681,Call Center
+CLI_000413,75,Basic,1118,Digital
+CLI_000414,38,Classic,7261,Digital
+CLI_000415,36,Classic,5468,Call Center
+CLI_000416,45,Classic,4596,Sucursal
+CLI_000417,51,Classic,5687,Sucursal
+CLI_000418,28,Classic,4717,Digital
+CLI_000419,57,Classic,7566,App Móvil
+CLI_000420,57,Basic,3798,Sucursal
+CLI_000421,49,Basic,3388,Sucursal
+CLI_000422,32,Basic,2888,Call Center
+CLI_000423,47,Premium,12183,Digital
+CLI_000424,75,Classic,7295,App Móvil
+CLI_000425,75,Premium,12712,Sucursal
+CLI_000426,22,Classic,5809,Call Center
+CLI_000427,55,Classic,5225,App Móvil
+CLI_000428,62,Basic,2024,App Móvil
+CLI_000429,72,Classic,5237,Sucursal
+CLI_000430,42,Premium,15916,Digital
+CLI_000431,33,Premium,14248,Call Center
+CLI_000432,54,Basic,2211,Call Center
+CLI_000433,19,Classic,7399,App Móvil
+CLI_000434,35,Premium,8132,Digital
+CLI_000435,76,Premium,17935,App Móvil
+CLI_000436,71,Basic,2172,Sucursal
+CLI_000437,56,Premium,13772,Sucursal
+CLI_000438,58,Basic,1778,Call Center
+CLI_000439,61,Basic,3952,Sucursal
+CLI_000440,58,Premium,9591,Digital
+CLI_000441,37,Premium,15222,Digital
+CLI_000442,55,Basic,2494,Sucursal
+CLI_000443,23,Classic,7725,Call Center
+CLI_000444,38,Classic,7061,App Móvil
+CLI_000445,29,Basic,1822,Sucursal
+CLI_000446,68,Basic,3209,Call Center
+CLI_000447,51,Basic,3055,Call Center
+CLI_000448,71,Basic,1673,Call Center
+CLI_000449,76,Classic,7377,App Móvil
+CLI_000450,79,Premium,12835,Call Center
+CLI_000451,69,Basic,1471,App Móvil
+CLI_000452,79,Classic,4308,Sucursal
+CLI_000453,66,Classic,7958,Sucursal
+CLI_000454,73,Basic,3770,App Móvil
+CLI_000455,79,Premium,17131,Call Center
+CLI_000456,23,Classic,7238,App Móvil
+CLI_000457,18,Premium,12332,Digital
+CLI_000458,47,Classic,5509,Call Center
+CLI_000459,55,Premium,14242,Call Center
+CLI_000460,24,Premium,19056,Sucursal
+CLI_000461,48,Premium,8410,Call Center
+CLI_000462,76,Classic,6498,Sucursal
+CLI_000463,59,Basic,1258,App Móvil
+CLI_000464,76,Classic,6871,Call Center
+CLI_000465,59,Basic,2672,Digital
+CLI_000466,26,Classic,4185,Digital
+CLI_000467,37,Classic,6017,Digital
+CLI_000468,24,Basic,1961,Sucursal
+CLI_000469,42,Classic,5858,Call Center
+CLI_000470,60,Basic,3852,App Móvil
+CLI_000471,55,Premium,19904,Sucursal
+CLI_000472,74,Basic,2699,Digital
+CLI_000473,71,Premium,16017,App Móvil
+CLI_000474,78,Basic,2145,Digital
+CLI_000475,62,Classic,5517,Sucursal
+CLI_000476,46,Basic,2821,Sucursal
+CLI_000477,72,Premium,13942,Digital
+CLI_000478,80,Classic,6808,Call Center
+CLI_000479,52,Basic,3641,Call Center
+CLI_000480,21,Classic,5630,Call Center
+CLI_000481,30,Classic,7965,Digital
+CLI_000482,78,Classic,7473,App Móvil
+CLI_000483,23,Classic,6714,Sucursal
+CLI_000484,59,Classic,6619,Digital
+CLI_000485,21,Classic,7222,Call Center
+CLI_000486,33,Basic,1515,Sucursal
+CLI_000487,22,Premium,17080,Sucursal
+CLI_000488,55,Classic,4884,Sucursal
+CLI_000489,39,Basic,1604,Digital
+CLI_000490,35,Basic,1592,Sucursal
+CLI_000491,52,Classic,5026,Sucursal
+CLI_000492,25,Classic,6707,Digital
+CLI_000493,26,Classic,4060,Call Center
+CLI_000494,68,Premium,11898,Call Center
+CLI_000495,19,Classic,4713,Call Center
+CLI_000496,21,Classic,4519,App Móvil
+CLI_000497,51,Classic,4465,Digital
+CLI_000498,48,Premium,15344,Call Center
+CLI_000499,50,Basic,3431,Digital
+CLI_000500,46,Basic,3063,Sucursal
+CLI_000501,78,Classic,6519,Digital
+CLI_000502,64,Classic,7208,Call Center
+CLI_000503,47,Classic,6635,Digital
+CLI_000504,21,Basic,2961,App Móvil
+CLI_000505,45,Classic,6810,Digital
+CLI_000506,49,Premium,19671,App Móvil
+CLI_000507,22,Basic,1330,Call Center
+CLI_000508,56,Basic,1607,Digital
+CLI_000509,26,Basic,2126,Call Center
+CLI_000510,42,Basic,3446,Call Center
+CLI_000511,47,Classic,6070,App Móvil
+CLI_000512,24,Classic,7248,Digital
+CLI_000513,72,Basic,3681,Sucursal
+CLI_000514,45,Basic,2849,Sucursal
+CLI_000515,44,Premium,13553,App Móvil
+CLI_000516,43,Premium,14815,Digital
+CLI_000517,38,Classic,5748,Call Center
+CLI_000518,60,Basic,2044,Call Center
+CLI_000519,79,Basic,1625,App Móvil
+CLI_000520,22,Premium,9494,Digital
+CLI_000521,23,Classic,5768,Digital
+CLI_000522,65,Classic,7026,Call Center
+CLI_000523,69,Basic,1532,Digital
+CLI_000524,55,Basic,3300,Call Center
+CLI_000525,60,Basic,1500,App Móvil
+CLI_000526,40,Classic,7578,App Móvil
+CLI_000527,73,Classic,7751,Digital
+CLI_000528,79,Classic,5178,Call Center
+CLI_000529,40,Premium,9697,Sucursal
+CLI_000530,27,Basic,3689,App Móvil
+CLI_000531,32,Basic,1443,Call Center
+CLI_000532,72,Basic,3278,Call Center
+CLI_000533,25,Basic,2141,Sucursal
+CLI_000534,69,Classic,5757,Digital
+CLI_000535,56,Basic,3694,Call Center
+CLI_000536,19,Basic,1738,Call Center
+CLI_000537,62,Basic,2265,Call Center
+CLI_000538,40,Classic,4025,Sucursal
+CLI_000539,73,Classic,4586,App Móvil
+CLI_000540,22,Premium,10324,Digital
+CLI_000541,23,Basic,3172,Sucursal
+CLI_000542,42,Classic,5719,App Móvil
+CLI_000543,39,Classic,4644,Call Center
+CLI_000544,37,Classic,6955,Call Center
+CLI_000545,67,Classic,7856,Digital
+CLI_000546,74,Classic,4215,Sucursal
+CLI_000547,28,Premium,18122,Digital
+CLI_000548,61,Classic,4334,Call Center
+CLI_000549,46,Classic,6711,App Móvil
+CLI_000550,49,Basic,3486,App Móvil
+CLI_000551,44,Classic,5118,Sucursal
+CLI_000552,66,Basic,3098,Digital
+CLI_000553,40,Classic,5760,Digital
+CLI_000554,36,Classic,6777,App Móvil
+CLI_000555,51,Basic,3732,Call Center
+CLI_000556,20,Classic,4903,App Móvil
+CLI_000557,56,Premium,8897,Digital
+CLI_000558,31,Premium,12938,Sucursal
+CLI_000559,67,Basic,1562,Call Center
+CLI_000560,36,Classic,5343,Digital
+CLI_000561,18,Basic,3037,App Móvil
+CLI_000562,29,Classic,4529,App Móvil
+CLI_000563,52,Premium,19528,Sucursal
+CLI_000564,50,Premium,17154,Call Center
+CLI_000565,22,Classic,5626,Digital
+CLI_000566,45,Classic,4076,App Móvil
+CLI_000567,76,Classic,4318,Call Center
+CLI_000568,54,Classic,5758,App Móvil
+CLI_000569,63,Basic,3622,App Móvil
+CLI_000570,36,Classic,4471,App Móvil
+CLI_000571,19,Classic,7957,Call Center
+CLI_000572,28,Basic,3531,App Móvil
+CLI_000573,71,Classic,6824,Call Center
+CLI_000574,23,Classic,5788,Digital
+CLI_000575,33,Basic,2784,App Móvil
+CLI_000576,51,Basic,1322,App Móvil
+CLI_000577,73,Premium,13083,Call Center
+CLI_000578,32,Basic,2364,Sucursal
+CLI_000579,22,Classic,6090,Digital
+CLI_000580,51,Classic,6088,Sucursal
+CLI_000581,75,Classic,7179,Call Center
+CLI_000582,40,Basic,3979,Sucursal
+CLI_000583,33,Classic,4421,Sucursal
+CLI_000584,34,Classic,4808,Sucursal
+CLI_000585,56,Classic,4626,Digital
+CLI_000586,29,Classic,7896,App Móvil
+CLI_000587,47,Premium,17236,App Móvil
+CLI_000588,61,Premium,17248,Call Center
+CLI_000589,73,Premium,18276,Call Center
+CLI_000590,27,Premium,15205,Digital
+CLI_000591,48,Premium,15245,Call Center
+CLI_000592,68,Classic,5125,Digital
+CLI_000593,40,Premium,16312,Digital
+CLI_000594,37,Classic,5891,App Móvil
+CLI_000595,20,Basic,1233,Call Center
+CLI_000596,71,Classic,5175,Digital
+CLI_000597,59,Classic,7539,Digital
+CLI_000598,57,Premium,17733,App Móvil
+CLI_000599,47,Premium,17508,Digital
+CLI_000600,46,Premium,17366,Sucursal
+CLI_000601,38,Premium,17912,App Móvil
+CLI_000602,50,Classic,4617,Digital
+CLI_000603,46,Premium,9695,Call Center
+CLI_000604,80,Premium,19703,Digital
+CLI_000605,50,Premium,18586,Sucursal
+CLI_000606,20,Classic,5014,App Móvil
+CLI_000607,46,Classic,6146,Sucursal
+CLI_000608,41,Classic,5527,Call Center
+CLI_000609,42,Classic,5674,Call Center
+CLI_000610,61,Classic,6448,Digital
+CLI_000611,68,Premium,18336,Call Center
+CLI_000612,22,Basic,2350,Digital
+CLI_000613,53,Classic,6778,App Móvil
+CLI_000614,36,Premium,12128,Sucursal
+CLI_000615,39,Basic,1333,Sucursal
+CLI_000616,76,Basic,2432,Call Center
+CLI_000617,79,Premium,18748,App Móvil
+CLI_000618,26,Classic,6437,Digital
+CLI_000619,37,Basic,3289,App Móvil
+CLI_000620,59,Basic,2345,Sucursal
+CLI_000621,60,Premium,19515,Digital
+CLI_000622,59,Classic,6746,App Móvil
+CLI_000623,50,Classic,5482,Digital
+CLI_000624,41,Classic,5265,Sucursal
+CLI_000625,78,Classic,4877,Call Center
+CLI_000626,78,Classic,7138,App Móvil
+CLI_000627,30,Classic,4927,Sucursal
+CLI_000628,27,Basic,1316,Call Center
+CLI_000629,72,Premium,9657,Digital
+CLI_000630,60,Classic,5379,Sucursal
+CLI_000631,56,Basic,2543,Sucursal
+CLI_000632,28,Basic,1740,Sucursal
+CLI_000633,64,Classic,5792,Digital
+CLI_000634,44,Classic,5492,Sucursal
+CLI_000635,80,Premium,15277,Call Center
+CLI_000636,66,Classic,7066,App Móvil
+CLI_000637,32,Classic,6187,Sucursal
+CLI_000638,37,Classic,7955,App Móvil
+CLI_000639,75,Classic,7420,Sucursal
+CLI_000640,41,Classic,6778,App Móvil
+CLI_000641,47,Premium,12616,App Móvil
+CLI_000642,50,Classic,6160,App Móvil
+CLI_000643,79,Classic,4663,Sucursal
+CLI_000644,69,Classic,6476,Sucursal
+CLI_000645,73,Premium,12096,Digital
+CLI_000646,59,Basic,2968,Call Center
+CLI_000647,53,Classic,7826,Digital
+CLI_000648,63,Classic,7464,Digital
+CLI_000649,36,Basic,1343,Sucursal
+CLI_000650,35,Classic,5840,Sucursal
+CLI_000651,71,Premium,15167,Digital
+CLI_000652,78,Classic,7729,Sucursal
+CLI_000653,70,Classic,5847,Call Center
+CLI_000654,77,Basic,1109,App Móvil
+CLI_000655,21,Classic,5623,Call Center
+CLI_000656,33,Premium,14326,Digital
+CLI_000657,41,Classic,4919,Digital
+CLI_000658,38,Classic,7812,Digital
+CLI_000659,71,Classic,6927,Call Center
+CLI_000660,68,Classic,4598,Sucursal
+CLI_000661,20,Classic,5175,App Móvil
+CLI_000662,62,Basic,1568,App Móvil
+CLI_000663,46,Classic,6520,Digital
+CLI_000664,75,Classic,4324,Digital
+CLI_000665,34,Premium,11533,Sucursal
+CLI_000666,53,Premium,19915,App Móvil
+CLI_000667,25,Classic,7179,Call Center
+CLI_000668,33,Premium,12934,Digital
+CLI_000669,21,Premium,11906,App Móvil
+CLI_000670,58,Classic,7251,App Móvil
+CLI_000671,22,Premium,9816,App Móvil
+CLI_000672,56,Basic,3195,Digital
+CLI_000673,58,Premium,16443,Sucursal
+CLI_000674,63,Classic,4588,Call Center
+CLI_000675,45,Classic,4006,Call Center
+CLI_000676,33,Basic,3337,App Móvil
+CLI_000677,29,Premium,18885,Digital
+CLI_000678,51,Classic,7992,Call Center
+CLI_000679,22,Basic,3154,Digital
+CLI_000680,42,Basic,2925,Digital
+CLI_000681,58,Basic,2584,Call Center
+CLI_000682,34,Classic,7061,Digital
+CLI_000683,40,Premium,9106,Call Center
+CLI_000684,33,Classic,7002,Digital
+CLI_000685,67,Basic,3383,Call Center
+CLI_000686,26,Classic,4181,Call Center
+CLI_000687,52,Classic,5386,Sucursal
+CLI_000688,71,Classic,7191,App Móvil
+CLI_000689,80,Basic,3848,App Móvil
+CLI_000690,58,Premium,10986,Sucursal
+CLI_000691,22,Classic,6932,App Móvil
+CLI_000692,20,Classic,5201,Sucursal
+CLI_000693,20,Classic,7240,Sucursal
+CLI_000694,74,Classic,4171,Call Center
+CLI_000695,77,Premium,13080,App Móvil
+CLI_000696,70,Classic,6224,App Móvil
+CLI_000697,34,Classic,4149,Sucursal
+CLI_000698,36,Classic,5462,Digital
+CLI_000699,73,Premium,18743,Call Center
+CLI_000700,35,Classic,4509,Call Center
+CLI_000701,45,Classic,7643,App Móvil
+CLI_000702,65,Premium,15204,App Móvil
+CLI_000703,39,Classic,7988,Sucursal
+CLI_000704,49,Premium,19338,App Móvil
+CLI_000705,41,Premium,16507,Call Center
+CLI_000706,69,Basic,1338,App Móvil
+CLI_000707,23,Classic,5763,Sucursal
+CLI_000708,52,Basic,2203,Call Center
+CLI_000709,24,Classic,4327,Call Center
+CLI_000710,60,Classic,5210,Call Center
+CLI_000711,46,Basic,3468,App Móvil
+CLI_000712,28,Classic,6825,App Móvil
+CLI_000713,40,Classic,5831,Digital
+CLI_000714,64,Classic,7563,Call Center
+CLI_000715,57,Classic,5781,Call Center
+CLI_000716,58,Basic,1234,Digital
+CLI_000717,60,Basic,3611,App Móvil
+CLI_000718,41,Basic,3101,Sucursal
+CLI_000719,78,Premium,8510,Sucursal
+CLI_000720,72,Basic,3488,App Móvil
+CLI_000721,20,Basic,1517,Digital
+CLI_000722,33,Premium,18570,Call Center
+CLI_000723,41,Premium,14272,Digital
+CLI_000724,56,Basic,1628,App Móvil
+CLI_000725,78,Classic,5519,Call Center
+CLI_000726,46,Basic,1314,Sucursal
+CLI_000727,51,Premium,14012,App Móvil
+CLI_000728,38,Basic,3660,Call Center
+CLI_000729,33,Classic,7934,Digital
+CLI_000730,19,Premium,11048,App Móvil
+CLI_000731,51,Premium,14340,Digital
+CLI_000732,34,Basic,2066,App Móvil
+CLI_000733,31,Classic,6506,Call Center
+CLI_000734,62,Classic,7753,App Móvil
+CLI_000735,30,Classic,4502,Sucursal
+CLI_000736,72,Basic,1303,App Móvil
+CLI_000737,29,Classic,7680,App Móvil
+CLI_000738,23,Basic,3793,Call Center
+CLI_000739,60,Classic,5423,Digital
+CLI_000740,53,Classic,6220,Call Center
+CLI_000741,75,Classic,5228,Sucursal
+CLI_000742,63,Classic,6906,Sucursal
+CLI_000743,68,Basic,2480,Sucursal
+CLI_000744,25,Classic,4823,Sucursal
+CLI_000745,33,Classic,7237,App Móvil
+CLI_000746,19,Basic,2478,Call Center
+CLI_000747,47,Classic,7291,Sucursal
+CLI_000748,57,Classic,7621,Digital
+CLI_000749,22,Basic,2266,App Móvil
+CLI_000750,63,Classic,6944,App Móvil
+CLI_000751,51,Premium,14730,App Móvil
+CLI_000752,70,Basic,3354,Digital
+CLI_000753,26,Classic,7982,Call Center
+CLI_000754,59,Classic,4303,App Móvil
+CLI_000755,47,Premium,19142,Call Center
+CLI_000756,26,Basic,3258,Sucursal
+CLI_000757,67,Classic,7957,Sucursal
+CLI_000758,45,Classic,6059,Digital
+CLI_000759,71,Basic,1508,Sucursal
+CLI_000760,37,Basic,1674,Sucursal
+CLI_000761,38,Premium,19621,Sucursal
+CLI_000762,40,Classic,7880,Call Center
+CLI_000763,72,Classic,4323,Call Center
+CLI_000764,30,Basic,3601,Call Center
+CLI_000765,26,Premium,18240,Call Center
+CLI_000766,57,Classic,6185,Digital
+CLI_000767,50,Basic,3625,Sucursal
+CLI_000768,55,Basic,3378,Sucursal
+CLI_000769,28,Classic,6698,Call Center
+CLI_000770,71,Basic,3308,Digital
+CLI_000771,70,Premium,8464,Digital
+CLI_000772,20,Basic,3627,Call Center
+CLI_000773,59,Premium,11453,App Móvil
+CLI_000774,57,Classic,6617,Digital
+CLI_000775,49,Basic,3568,Call Center
+CLI_000776,59,Premium,12949,App Móvil
+CLI_000777,33,Classic,7296,App Móvil
+CLI_000778,37,Basic,2857,Digital
+CLI_000779,62,Basic,1245,Sucursal
+CLI_000780,46,Classic,5702,App Móvil
+CLI_000781,47,Classic,4835,Call Center
+CLI_000782,56,Classic,4588,Call Center
+CLI_000783,73,Classic,6942,Call Center
+CLI_000784,64,Classic,7525,Call Center
+CLI_000785,80,Premium,14532,Sucursal
+CLI_000786,66,Basic,2517,Digital
+CLI_000787,38,Classic,4990,App Móvil
+CLI_000788,25,Classic,5095,App Móvil
+CLI_000789,33,Classic,4577,Digital
+CLI_000790,21,Basic,2188,App Móvil
+CLI_000791,73,Premium,18082,App Móvil
+CLI_000792,33,Classic,7943,Sucursal
+CLI_000793,70,Classic,5341,Call Center
+CLI_000794,30,Classic,7125,Sucursal
+CLI_000795,49,Premium,16433,App Móvil
+CLI_000796,49,Basic,2263,App Móvil
+CLI_000797,19,Basic,1368,App Móvil
+CLI_000798,50,Classic,5872,Sucursal
+CLI_000799,31,Classic,6389,Call Center
+CLI_000800,21,Basic,1207,Call Center
+CLI_000801,49,Basic,3447,App Móvil
+CLI_000802,36,Premium,16793,Digital
+CLI_000803,72,Classic,4440,App Móvil
+CLI_000804,26,Classic,7614,Call Center
+CLI_000805,64,Classic,5498,App Móvil
+CLI_000806,41,Basic,1185,App Móvil
+CLI_000807,21,Basic,3335,Sucursal
+CLI_000808,41,Basic,3266,Call Center
+CLI_000809,22,Classic,5582,App Móvil
+CLI_000810,66,Premium,17008,Call Center
+CLI_000811,70,Basic,3552,Digital
+CLI_000812,26,Basic,1396,App Móvil
+CLI_000813,41,Premium,13555,Call Center
+CLI_000814,66,Basic,1590,Sucursal
+CLI_000815,56,Basic,3085,App Móvil
+CLI_000816,50,Classic,4164,Digital
+CLI_000817,20,Classic,4561,Call Center
+CLI_000818,69,Classic,5940,App Móvil
+CLI_000819,27,Premium,17932,Sucursal
+CLI_000820,38,Classic,7814,Call Center
+CLI_000821,28,Basic,2609,Call Center
+CLI_000822,55,Premium,13511,App Móvil
+CLI_000823,63,Classic,6305,Call Center
+CLI_000824,48,Classic,7341,Digital
+CLI_000825,41,Classic,5356,Digital
+CLI_000826,80,Basic,2706,Call Center
+CLI_000827,68,Classic,7681,Digital
+CLI_000828,56,Classic,5943,Call Center
+CLI_000829,79,Basic,3685,Sucursal
+CLI_000830,64,Classic,4210,App Móvil
+CLI_000831,28,Classic,6147,App Móvil
+CLI_000832,27,Classic,7365,Sucursal
+CLI_000833,20,Premium,17380,Digital
+CLI_000834,30,Premium,8310,App Móvil
+CLI_000835,38,Classic,5715,Sucursal
+CLI_000836,44,Classic,6828,Sucursal
+CLI_000837,44,Basic,3055,App Móvil
+CLI_000838,73,Classic,7474,Digital
+CLI_000839,63,Classic,4565,Sucursal
+CLI_000840,53,Classic,5331,App Móvil
+CLI_000841,51,Premium,14173,Call Center
+CLI_000842,79,Classic,4709,App Móvil
+CLI_000843,76,Premium,16734,Call Center
+CLI_000844,52,Basic,2451,Call Center
+CLI_000845,57,Premium,15932,Sucursal
+CLI_000846,79,Classic,5009,Call Center
+CLI_000847,53,Premium,12890,Sucursal
+CLI_000848,78,Basic,2219,Call Center
+CLI_000849,63,Classic,4849,App Móvil
+CLI_000850,38,Classic,5965,Call Center
+CLI_000851,53,Premium,19823,Call Center
+CLI_000852,36,Basic,1499,App Móvil
+CLI_000853,75,Classic,5616,Call Center
+CLI_000854,79,Basic,1599,Call Center
+CLI_000855,20,Classic,5178,Digital
+CLI_000856,40,Premium,15247,Call Center
+CLI_000857,65,Premium,15849,Sucursal
+CLI_000858,30,Classic,7391,Call Center
+CLI_000859,77,Classic,6302,Call Center
+CLI_000860,26,Premium,9789,Sucursal
+CLI_000861,33,Basic,1207,Sucursal
+CLI_000862,58,Classic,4953,Digital
+CLI_000863,24,Classic,5692,Call Center
+CLI_000864,63,Classic,5934,Digital
+CLI_000865,61,Classic,7157,Sucursal
+CLI_000866,18,Classic,7950,Sucursal
+CLI_000867,44,Premium,18696,App Móvil
+CLI_000868,48,Premium,18658,Sucursal
+CLI_000869,66,Basic,2176,Call Center
+CLI_000870,36,Basic,3645,Digital
+CLI_000871,76,Classic,7148,Digital
+CLI_000872,59,Classic,6351,Sucursal
+CLI_000873,52,Classic,7025,Digital
+CLI_000874,76,Classic,7774,Sucursal
+CLI_000875,44,Premium,10880,Digital
+CLI_000876,71,Premium,14504,App Móvil
+CLI_000877,29,Basic,2185,Digital
+CLI_000878,18,Classic,5222,Digital
+CLI_000879,77,Premium,13489,Call Center
+CLI_000880,47,Classic,6626,App Móvil
+CLI_000881,74,Classic,7844,Sucursal
+CLI_000882,72,Classic,6065,App Móvil
+CLI_000883,35,Premium,11159,Digital
+CLI_000884,39,Premium,10662,App Móvil
+CLI_000885,59,Basic,2053,Sucursal
+CLI_000886,18,Premium,13523,Call Center
+CLI_000887,54,Classic,6762,Sucursal
+CLI_000888,29,Classic,6502,App Móvil
+CLI_000889,70,Premium,15007,Call Center
+CLI_000890,23,Classic,5641,Digital
+CLI_000891,29,Basic,1575,App Móvil
+CLI_000892,38,Basic,2016,Digital
+CLI_000893,34,Basic,2571,Sucursal
+CLI_000894,46,Classic,7087,Call Center
+CLI_000895,79,Classic,5350,Call Center
+CLI_000896,55,Classic,6960,Digital
+CLI_000897,34,Classic,6677,Call Center
+CLI_000898,62,Basic,1967,Digital
+CLI_000899,60,Premium,9936,App Móvil
+CLI_000900,37,Premium,10616,App Móvil
+CLI_000901,61,Classic,6058,Call Center
+CLI_000902,62,Premium,9923,Call Center
+CLI_000903,41,Premium,18070,Sucursal
+CLI_000904,32,Classic,7921,Sucursal
+CLI_000905,48,Classic,4627,App Móvil
+CLI_000906,65,Basic,3481,Call Center
+CLI_000907,44,Basic,3875,App Móvil
+CLI_000908,66,Classic,6201,Sucursal
+CLI_000909,66,Classic,5013,Digital
+CLI_000910,51,Classic,5829,Call Center
+CLI_000911,22,Classic,7757,Digital
+CLI_000912,21,Classic,7394,Sucursal
+CLI_000913,54,Classic,6198,Sucursal
+CLI_000914,28,Classic,5343,App Móvil
+CLI_000915,25,Classic,6786,Sucursal
+CLI_000916,63,Classic,6388,App Móvil
+CLI_000917,23,Classic,7681,App Móvil
+CLI_000918,69,Basic,1227,App Móvil
+CLI_000919,26,Basic,3102,App Móvil
+CLI_000920,47,Premium,17239,Digital
+CLI_000921,53,Basic,2893,Call Center
+CLI_000922,64,Classic,4089,App Móvil
+CLI_000923,34,Basic,1012,Sucursal
+CLI_000924,55,Basic,1299,Digital
+CLI_000925,45,Classic,5411,Digital
+CLI_000926,52,Premium,8987,Digital
+CLI_000927,77,Classic,5933,Digital
+CLI_000928,36,Classic,5674,Sucursal
+CLI_000929,67,Classic,4554,App Móvil
+CLI_000930,41,Classic,7650,App Móvil
+CLI_000931,46,Premium,14184,App Móvil
+CLI_000932,23,Basic,3796,Sucursal
+CLI_000933,59,Basic,2424,Digital
+CLI_000934,29,Classic,6200,App Móvil
+CLI_000935,51,Premium,10086,Sucursal
+CLI_000936,71,Classic,4014,Digital
+CLI_000937,80,Premium,12888,App Móvil
+CLI_000938,61,Basic,3945,App Móvil
+CLI_000939,52,Premium,14214,Sucursal
+CLI_000940,33,Classic,5886,Call Center
+CLI_000941,27,Classic,5129,Sucursal
+CLI_000942,77,Classic,7584,Digital
+CLI_000943,20,Classic,7315,App Móvil
+CLI_000944,57,Basic,1064,Sucursal
+CLI_000945,31,Classic,4275,Digital
+CLI_000946,56,Premium,8550,App Móvil
+CLI_000947,56,Premium,19010,Digital
+CLI_000948,33,Basic,1181,App Móvil
+CLI_000949,46,Basic,1959,Sucursal
+CLI_000950,66,Classic,7537,Digital
+CLI_000951,26,Classic,6063,Call Center
+CLI_000952,32,Classic,7341,Call Center
+CLI_000953,54,Premium,17796,Call Center
+CLI_000954,33,Basic,2236,Sucursal
+CLI_000955,60,Classic,6135,Sucursal
+CLI_000956,44,Classic,5230,Call Center
+CLI_000957,21,Classic,6280,Sucursal
+CLI_000958,58,Premium,19120,App Móvil
+CLI_000959,53,Premium,16120,Digital
+CLI_000960,80,Basic,2410,App Móvil
+CLI_000961,68,Premium,16592,Call Center
+CLI_000962,62,Classic,5705,App Móvil
+CLI_000963,27,Classic,5228,App Móvil
+CLI_000964,29,Classic,7090,App Móvil
+CLI_000965,33,Classic,7478,Sucursal
+CLI_000966,37,Classic,7512,Sucursal
+CLI_000967,69,Basic,2896,Digital
+CLI_000968,53,Classic,5690,App Móvil
+CLI_000969,53,Classic,6170,Sucursal
+CLI_000970,42,Classic,4994,Call Center
+CLI_000971,31,Classic,5352,Digital
+CLI_000972,77,Basic,2842,Call Center
+CLI_000973,23,Basic,3193,Sucursal
+CLI_000974,21,Classic,5099,App Móvil
+CLI_000975,61,Premium,17911,Digital
+CLI_000976,73,Classic,4298,Sucursal
+CLI_000977,69,Classic,7119,Sucursal
+CLI_000978,48,Premium,11422,Call Center
+CLI_000979,37,Classic,7919,Digital
+CLI_000980,31,Classic,7838,Sucursal
+CLI_000981,79,Classic,7037,Digital
+CLI_000982,65,Basic,2961,Sucursal
+CLI_000983,62,Premium,17902,Sucursal
+CLI_000984,43,Premium,11921,Call Center
+CLI_000985,67,Basic,2159,App Móvil
+CLI_000986,47,Classic,6185,Call Center
+CLI_000987,37,Classic,5071,Call Center
+CLI_000988,50,Classic,7615,App Móvil
+CLI_000989,47,Classic,4403,App Móvil
+CLI_000990,66,Basic,2311,Sucursal
+CLI_000991,41,Basic,2281,App Móvil
+CLI_000992,20,Classic,6304,Sucursal
+CLI_000993,65,Classic,4597,Digital
+CLI_000994,34,Classic,6266,App Móvil
+CLI_000995,36,Classic,4624,Sucursal
+CLI_000996,39,Premium,11768,App Móvil
+CLI_000997,54,Basic,2006,App Móvil
+CLI_000998,53,Premium,18725,Call Center
+CLI_000999,34,Basic,3001,App Móvil
+CLI_001000,47,Classic,4689,Call Center

@@ -1,0 +1,51 @@
+id_producto,categoria,margen_esperado
+PRD_0001,Préstamos Personales,0.0898
+PRD_0002,Cuentas de Ahorro,0.0346
+PRD_0003,Cuentas de Ahorro,0.0497
+PRD_0004,Tarjetas de Crédito,0.2024
+PRD_0005,Tarjetas de Crédito,0.2445
+PRD_0006,Tarjetas de Crédito,0.2264
+PRD_0007,Seguros,0.2206
+PRD_0008,Préstamos Personales,0.0848
+PRD_0009,Préstamos Personales,0.0806
+PRD_0010,Cuentas de Ahorro,0.0337
+PRD_0011,Tarjetas de Crédito,0.2118
+PRD_0012,Cuentas de Ahorro,0.0474
+PRD_0013,Seguros,0.2024
+PRD_0014,Cuentas de Ahorro,0.0365
+PRD_0015,Tarjetas de Crédito,0.1517
+PRD_0016,Inversiones,0.0514
+PRD_0017,Inversiones,0.0307
+PRD_0018,Seguros,0.3209
+PRD_0019,Préstamos Personales,0.0875
+PRD_0020,Tarjetas de Crédito,0.2024
+PRD_0021,Préstamos Personales,0.0934
+PRD_0022,Cuentas de Ahorro,0.0276
+PRD_0023,Inversiones,0.0407
+PRD_0024,Seguros,0.2119
+PRD_0025,Seguros,0.2688
+PRD_0026,Préstamos Personales,0.1493
+PRD_0027,Préstamos Personales,0.101
+PRD_0028,Tarjetas de Crédito,0.2154
+PRD_0029,Tarjetas de Crédito,0.1594
+PRD_0030,Seguros,0.2566
+PRD_0031,Seguros,0.2084
+PRD_0032,Tarjetas de Crédito,0.2203
+PRD_0033,Tarjetas de Crédito,0.2
+PRD_0034,Seguros,0.2967
+PRD_0035,Inversiones,0.0526
+PRD_0036,Tarjetas de Crédito,0.2395
+PRD_0037,Tarjetas de Crédito,0.173
+PRD_0038,Cuentas de Ahorro,0.0343
+PRD_0039,Tarjetas de Crédito,0.2424
+PRD_0040,Inversiones,0.066
+PRD_0041,Cuentas de Ahorro,0.0397
+PRD_0042,Préstamos Personales,0.145
+PRD_0043,Inversiones,0.0306
+PRD_0044,Préstamos Personales,0.1211
+PRD_0045,Seguros,0.3393
+PRD_0046,Inversiones,0.0365
+PRD_0047,Préstamos Personales,0.1197
+PRD_0048,Seguros,0.3016
+PRD_0049,Cuentas de Ahorro,0.03
+PRD_0050,Préstamos Personales,0.1353
